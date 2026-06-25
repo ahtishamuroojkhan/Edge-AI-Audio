@@ -25,7 +25,7 @@ Dataset:
 
 # Model Training
 
--Train the CNN on your PC. 
+-Train the CNN of sami002khan model on your PC. 
 -Save: emotion_recognition_model.h5 
 -label_encoder.pkl 
 -Convert the .h5 model to: emotion_model.tflite 
